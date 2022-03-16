@@ -1,5 +1,9 @@
 
 public class Student {
+	void display()
+	{
+		
+	}
 
 	String name;
 	Student(String x){
